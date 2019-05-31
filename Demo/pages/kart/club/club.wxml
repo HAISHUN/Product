@@ -1,0 +1,4 @@
+<!--pages/kart/club/club.wxml-->
+<span style="font-size:24px;">
+  <view style="text-align:center"> {{title}} </view>
+</span>

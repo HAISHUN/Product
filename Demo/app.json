@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/kart/kart",
+    "pages/index/index",
+    "pages/live/live",
+    "pages/forum/forum",
+    "pages/order/order",
+    "pages/my/my",
+    "pages/logs/logs",
+    "pages/kart/club/club"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "激隼",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/ic_launcher_round.png",
+        "iconPath": "images/ic_launcher.png",
+        "pagePath": "pages/kart/kart",
+        "text": "卡丁"
+      },
+      {
+        "selectedIconPath": "images/ic_launcher_round.png",
+        "iconPath": "images/ic_launcher.png",
+        "pagePath": "pages/live/live",
+        "text": "直播"
+      },
+      {
+        "selectedIconPath": "images/ic_launcher_round.png",
+        "iconPath": "images/ic_launcher.png",
+        "pagePath": "pages/index/index",
+        "text": "论坛"
+      },
+      {
+        "selectedIconPath": "images/ic_launcher_round.png",
+        "iconPath": "images/ic_launcher.png",
+        "pagePath": "pages/order/order",
+        "text": "订单"
+      },
+      {
+        "selectedIconPath": "images/ic_launcher_round.png",
+        "iconPath": "images/ic_launcher.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ],
+    "position": "bottom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

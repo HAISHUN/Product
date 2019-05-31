@@ -1,0 +1,5 @@
+<!--pages/my/my.wxml-->
+<text>我的</text>
+<span style="font-size:24px;">
+  <view style="text-align:center"> {{title}} </view>
+</span>

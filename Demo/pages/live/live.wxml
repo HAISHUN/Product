@@ -1,0 +1,6 @@
+<!--pages/live/live.wxml-->
+<text>直播</text>
+
+<span style="font-size:24px;">
+  <view style="text-align:center"> {{title}} </view>
+</span>

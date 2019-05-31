@@ -1,0 +1,15 @@
+/* pages/kart/kart.wxss */
+
+.swiper {
+  height: 400rpx;
+  width: 100%;
+}
+
+.swiper image {
+  height: 100%;
+  width: 100%;
+}
+
+.line-gary{
+  color: #f0eaea
+}
